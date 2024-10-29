@@ -47,8 +47,8 @@ Sebuah toko bahan makanan bernama *"Sembako Sejahtera"* menjual beberapa jenis p
    - Buat aplikasi untuk:
      - Mencatat transaksi pembelian oleh pelanggan dan menolak transaksi jika stok tidak mencukupi.
      - Menampilkan ringkasan transaksi lengkap beserta tanggal, nama pelanggan, produk, harga, pajak, dan total harga.
-     - Menghitung keuntungan toko selama bulan Februari 2026 berdasarkan data transaksi.
-     - Menampilkan total pajak yang harus disetor selama bulan Februari 2026.
+     - Menghitung keuntungan toko selama bulan Februari 2026 berdasarkan data transaksi. (opsional)
+     - Menampilkan total pajak yang harus disetor selama bulan Februari 2026. (opsional)
    - Gunakan komentar untuk menjelaskan fungsi kode program.
    - Terapkan penanganan kesalahan untuk menghindari bug, dan gunakan paradigma pemrograman yang sesuai (berorientasi objek/prosedural).
 
